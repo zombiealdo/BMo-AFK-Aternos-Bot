@@ -33,7 +33,7 @@
       "messages": [
         "beepoop beeep",
         "hii",
-        "Doing something cool rn"
+        "Im like running around!"
       ]
     },
     "chat-log": true,
@@ -70,7 +70,7 @@
   },
   "beds": {
     "pick-up-day": false,
-    "place-night": true
+    "place-night": false
   },
   "discord": {
     "enabled": false,
